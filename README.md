@@ -1,2 +1,2 @@
-# 1ProjetoHtmlDIO
-Esse projeto está sendo criado para a realização do 1 projeto do curso de HTML da plataforma DIO 
+# Primeiros passos com HTML DIO
+Este projeto foi desenvolvido como o primeiro projeto do curso de HTML na plataforma DIO, referente ao capítulo 'Primeiros Passos com HTML' da formação em HTML.
